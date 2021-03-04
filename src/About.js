@@ -8,7 +8,7 @@ const About = () => {
                 <div id="aboutMe" class="mx-auto container">
                     <h2>About Me</h2>
                     <p class="lead">Hi, I’m James!</p>
-                    <img src='/images/JamesParker11:27:2020.JPG'>
+                    {/* <img src='/images/JamesParker11:27:2020.JPG'/> */}
                         <p>I’m a Chinese-American freshman
                         who grew up in New York City studying computer
             science at the University of Michigan. </p>
@@ -45,7 +45,7 @@ const About = () => {
                             <li>Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future by Ashlee Vance</li>
                         </ul>
                     </div>
-                    <div id=>
+                <div>
                     <h5>Resume</h5>
                     <h5>GitHub</h5>
                 </div>
