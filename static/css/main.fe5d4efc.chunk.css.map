@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,IACI,cAAc,CACd,WACJ,CACA,QACI,qBAAsB,CACtB,UAAW,CACX,WAAY,CACZ,iBACJ","file":"main.fe5d4efc.chunk.css","sourcesContent":["img { \n    max-width:100%;\n    height:auto;\n}\n.avatar { \n    vertical-align: middle;\n    width: 50px; \n    height: 50px;\n    border-radius: 50%;\n}"]}

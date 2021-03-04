@@ -1,0 +1,2 @@
+(this["webpackJsonpjamesdchu.github.io"]=this["webpackJsonpjamesdchu.github.io"]||[]).push([[0],{10:function(e,t,n){"use strict";n.r(t);n(1);var c=n(3),i=n.n(c),s=(n(8),n(0)),r=function(){return Object(s.jsx)(s.Fragment,{children:Object(s.jsx)("div",{children:"Hi, I'm James."})})},u=function(){return Object(s.jsx)("div",{className:"container",children:Object(s.jsx)(r,{})})},j=document.getElementById("root");i.a.render(Object(s.jsx)(u,{}),j)},8:function(e,t,n){}},[[10,1,2]]]);
+//# sourceMappingURL=main.92ca8bd7.chunk.js.map
