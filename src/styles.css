@@ -8,3 +8,13 @@ img {
     height: 50px;
     border-radius: 50%;
 }
+.expand {
+/*text-align: right;*/
+-webkit-text-fill-color: black;
+margin: -20px 0 20px 0;
+transition-duration: .25s;
+}
+
+.expand:hover {
+opacity: .65;
+}
