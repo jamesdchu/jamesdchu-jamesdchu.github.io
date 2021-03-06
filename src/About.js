@@ -1,5 +1,5 @@
 import React from "react";
-
+import Expand from "./Expand.js";
 
 const About = () => {
     return (
@@ -10,7 +10,12 @@ const About = () => {
                     <p class="lead">Hi, I’m James!</p>
                     {/* <img src='/images/JamesParker11:27:2020.JPG'/> */}
                         <p>I’m a Chinese-American freshman
-                        who grew up in New York City studying computer
+                        who grew up in
+                        <Expand
+                        before=" New York "
+                        after=" New York City "
+                        />
+                        studying computer
             science at the University of Michigan. </p>
                         <h4>Fun Facts!</h4>
                         <ol>
