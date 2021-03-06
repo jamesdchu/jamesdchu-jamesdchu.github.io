@@ -50,10 +50,6 @@ const About = () => {
                             <li>Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future by Ashlee Vance</li>
                         </ul>
                     </div>
-                <div>
-                    <h5>Resume</h5>
-                    <h5>GitHub</h5>
-                </div>
             </body>
         </>
     )
