@@ -9,7 +9,7 @@ const About = () => {
                     <h2>About Me</h2>
                     <p class="lead">Hi, I’m James!</p>
                     {/* <img src='/images/JamesParker11:27:2020.JPG'/> */}
-                        <p>I’m a Chinese-American freshman
+                        <p>I’m a Chinese-American junior
                         who grew up in
                         <Expand
                         before=" New York "
@@ -21,7 +21,7 @@ const About = () => {
                         <ol>
                             <li>My favorite quarantine drink is oatmilk!</li>
                             <li>I played on my high school's varsity bowling and cricket teams.</li>
-                            <li>In my freetime, I love to crack open a new book. My favorite book is
+                            <li>In my freetime, I like starting a new book. My favorite book is
                     the Last Lecture by Randy Pausch. I highly recommend checking it out!</li>
                             <li>I enjoy hiking - last year, I went on an overnight hiking trip on the Appalachian Trail.</li>
                         </ol>
